@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A simple REST API for student registration built with Express.js or Flask.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devchimereawam/DLP-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Devchimereawam/DLP-Backend/issues"
+  },
+  "homepage": "https://github.com/Devchimereawam/DLP-Backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
